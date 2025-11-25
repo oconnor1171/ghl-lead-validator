@@ -1,0 +1,23 @@
+{
+  "name": "ghl-lead-validator",
+  "version": "1.0.0",
+  "description": "GHL lead validator to prevent early booking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oconnor1171/ghl-lead-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oconnor1171/ghl-lead-validator/issues"
+  },
+  "homepage": "https://github.com/oconnor1171/ghl-lead-validator#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
